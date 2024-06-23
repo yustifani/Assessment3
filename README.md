@@ -1,7 +1,7 @@
 # Identitas
 NIM: 6706223124
 
-Nama: Putri
+Nama: Yustifani Putri C
 
-Kelas: D3 RPLA
+Kelas:46-01 D3 RPLA
 
